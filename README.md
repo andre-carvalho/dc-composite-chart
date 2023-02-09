@@ -9,3 +9,7 @@ Input data, in csv format, were exported from the official database on: 2023-01-
 http://dc-js.github.io/dc.js/examples/
 
 http://terrabrasilis.dpi.inpe.br/ams/
+
+## LICENSE
+
+Apache License - see the LICENSE file.
